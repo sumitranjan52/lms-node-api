@@ -1,0 +1,7 @@
+{
+  "mysql_hostname": "hostname",
+  "mysql_username": "username",
+  "mysql_password": "password",
+  "mysql_db_name": "database",
+  "secret_key": "supersecretkey"
+}

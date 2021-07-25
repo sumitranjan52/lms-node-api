@@ -1,0 +1,35 @@
+{
+  "name": "lms-node-api",
+  "version": "1.0.0",
+  "description": "Learning Management System",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sumitranjan52/lms-node-api.git"
+  },
+  "keywords": [
+    "LMS",
+    "Learning"
+  ],
+  "author": "Sumit, Ankit",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sumitranjan52/lms-node-api/issues"
+  },
+  "homepage": "https://github.com/sumitranjan52/lms-node-api#readme",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "config": "^3.3.6",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "joi": "^17.4.0",
+    "jsonwebtoken": "^8.5.1",
+    "mysql": "^2.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
